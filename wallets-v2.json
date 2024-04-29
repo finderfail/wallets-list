@@ -125,13 +125,13 @@
     "app_name": "kriloudwallet",
     "name": "Kriloud Wallet",
     "image": "https://wallet.ton.org/assets/ui/qr-logo.png",
-    "about_url": "https://addons.mozilla.org/en-US/firefox/addon/kriloud-wallet/",
+    "about_url": "https://wallet.kriloud.space/",
     "bridge": [
       {
         "type": "js",
         "key": "kriloudwallet"
       }
     ],
-    "platforms": ["firefox"]
+    "platforms": ["chrome", "firefox"]
   }
 ]
